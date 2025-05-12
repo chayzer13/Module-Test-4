@@ -1,0 +1,46 @@
+[1m[31mERROR   [0m test_opencart:test_opencart.py:129 Ошибка при обработке превью 1: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+[1m[31mERROR   [0m test_opencart:test_opencart.py:129 Ошибка при обработке превью 2: Message: Element <a class="thumbnail" href="https://demo-opencart.ru/image/cache/catalog/demo/macbook_5-500x500.jpg"> is not clickable at point (420,305) because another element <div class="mfp-container mfp-image-holder mfp-s-ready"> obscures it
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:351:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:177:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:136:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:354:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:230:31
+
+[1m[31mERROR   [0m test_opencart:test_opencart.py:129 Ошибка при обработке превью 3: Message: Element <a class="thumbnail" href="https://demo-opencart.ru/image/cache/catalog/demo/macbook_4-500x500.jpg"> is not clickable at point (518,305) because another element <div class="mfp-container mfp-image-holder mfp-s-ready"> obscures it
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:351:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:177:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:136:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:354:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:230:31
+
+[1m[31mERROR   [0m test_opencart:test_opencart.py:129 Ошибка при обработке превью 4: Message: Element <a class="thumbnail" href="https://demo-opencart.ru/image/cache/catalog/demo/macbook_2-500x500.jpg"> is not clickable at point (616,305) because another element <div class="mfp-container mfp-image-holder mfp-s-ready"> obscures it
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:351:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:177:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:136:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:354:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:230:31
+
+[1m[31mERROR   [0m test_opencart:test_opencart.py:129 Ошибка при обработке превью 5: Message: Element <a class="thumbnail" href="https://demo-opencart.ru/image/cache/catalog/demo/macbook_3-500x500.jpg"> is not clickable at point (714,305) because another element <img class="mfp-img" src="https://demo-opencart.ru/image/cache/catalog/demo/macbook_1-500x500.jpg"> obscures it
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:351:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:177:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:136:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:354:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:230:31
